@@ -1,0 +1,5 @@
+How many unmapped reads are in the file?: 17765
+Total number of reads: 2921629
+Number of reads with mapping quality 0: 126628
+Average mapping quality for all the reads: 55.91379158681681
+Average mapping quality if reads with 0 mapp quality are filtered out: 58.446975510921106
